@@ -1,1 +1,1 @@
-# first-project
+# simple-calculator
